@@ -1,0 +1,2 @@
+service: stackdriver-logging
+runtime: nodejs10

@@ -1,0 +1,16 @@
+{
+  "name": "stackdriver-loggingr",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "deploy": "gcloud app deploy",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@google-cloud/logging-bunyan": "^0.10.1",
+    "bunyan": "^1.8.12",
+    "express": "^4.16.3"
+  }
+}
