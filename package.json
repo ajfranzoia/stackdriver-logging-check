@@ -11,6 +11,6 @@
   "dependencies": {
     "@google-cloud/logging-bunyan": "^0.10.1",
     "bunyan": "^1.8.12",
-    "express": "^4.16.3"
+    "express": "^4.17.3"
   }
 }
